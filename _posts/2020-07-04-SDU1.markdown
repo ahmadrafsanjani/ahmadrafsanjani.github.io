@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Center for Soft Robotics
+date:   2020-07-16
+description: I will join SDU Biorobotics
+---
+We will start from August 2020.
