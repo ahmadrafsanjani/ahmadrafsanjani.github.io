@@ -30,11 +30,13 @@ $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
+$black: #000
 
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
+$black-color: #000;
 
 /* Set theme color *************************/
 $theme-color:   $blue;
@@ -130,7 +132,7 @@ a {
     }
     */
     &:hover {
-        color: $theme-color;
+        color: $black-color;
         text-decoration: none;
     }
 }
