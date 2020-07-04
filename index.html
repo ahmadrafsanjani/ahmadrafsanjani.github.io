@@ -21,7 +21,7 @@ layout: default
 
 <ul class="post-list">
   <h> News </h>
-    {% for post in paginator.posts %}
+    {% for post in paginator.posts[0:1] %}
       <li>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
         <p><a class="post-meta" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
