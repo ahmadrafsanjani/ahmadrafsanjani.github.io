@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Center for Soft Robotics
+title:  News 1
 date:   2020-07-16
-description: I will join SDU Biorobotics
+description: News 1 description
 ---
-We will start from August 2020.
+News 1 text
