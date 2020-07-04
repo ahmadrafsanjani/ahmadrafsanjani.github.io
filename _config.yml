@@ -1,17 +1,17 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: Ahmad Rafsanjani
+email: ahmad.rafsanjani@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: rafsanjani84
+github_username:  ahmadrafsanjani
 
 # Build settings
 markdown: kramdown
 
-highlighter: rouge
+highlighter: black
 
 # Pagination
 paginate: 15
