@@ -16,42 +16,38 @@ layout: default
 <hr/>
 <br/>
 
-<div class="posts">
-<h2>news</h2>
-<table>
 
-<tr>
-<td class="date">01/08/2020</td>
-<td class="announcement">
-News 1.
-</td>
-</tr>
 
-<tr>
-<td class="date">01/09/2020</td>
-<td class="announcement">
-News 2.
-</td>
-</tr>
-</table>
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
 </div>
 
-
-
-
-
-
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
 
 
 <br/>
