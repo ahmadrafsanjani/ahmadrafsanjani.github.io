@@ -35,6 +35,7 @@ $purple: #B509AC;
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
+$black-color: #000;
 
 /* Set theme color *************************/
 $theme-color:   $orange;
@@ -130,7 +131,7 @@ a {
     }
     */
     &:hover {
-        color: $theme-color;
+        color: $black-color;
         text-decoration: none;
     }
 }
