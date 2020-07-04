@@ -1,7 +1,7 @@
 ---
 layout: page
-title: photoportfolio
-permalink: /photoportfolio/
+title: research
+permalink: /research/
 ---
 
 
