@@ -11,7 +11,7 @@ github_username:  ahmadrafsanjani
 # Build settings
 markdown: kramdown
 
-highlighter: black
+highlighter: rouge
 
 # Pagination
 paginate: 15
