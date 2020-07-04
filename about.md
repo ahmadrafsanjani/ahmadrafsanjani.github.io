@@ -7,9 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/Ahmad_Rafsanjani.jpg">
 
 <br/>
-Ahmad Rafsanjani is an Associate Professor at SDU Biorobotics. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+Ahmad Rafsanjani is an Associate Professor at SDU Biorobotics.
 
 
 <br/>
