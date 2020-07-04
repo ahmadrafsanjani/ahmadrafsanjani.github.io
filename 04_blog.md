@@ -1,7 +1,7 @@
 ---
 layout: page
-title: media
-permalink: /media/
+title: blog
+permalink: /blog/
 ---
 
 {% for project in site.portfolio %}
