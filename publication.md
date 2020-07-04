@@ -2,7 +2,7 @@
 layout: page
 permalink: /publication/
 title: publication
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: For the updated list of my publication visit my google scholar page.
 ---
 
 <ul class="post-list">
