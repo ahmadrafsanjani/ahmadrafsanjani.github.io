@@ -2,6 +2,7 @@
 layout: page
 title: research
 permalink: /research/
+description: Soft Robotics.
 ---
 
 
@@ -26,6 +27,6 @@ permalink: /research/
 
 
 
-<!-- this is for the lightbox --> 
+<!-- this is for the lightbox -->
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/css/lightbox.css">
