@@ -5,10 +5,11 @@
     <nav class="site-nav">
 
       <div class="trigger">
-        <!-- {{ site.title }} instead of blog -->
+        <!-- website logo -->
         <a href="https://www.sdu.dk/en">
-        <IMG style="float:left;vertical-align:middle" SRC="\img\SDU_logo.png" WIDTH=83 HEIGHT=22>
+        <IMG style="vertical-align:middle" SRC="\img\SDU_logo.png" WIDTH=83 HEIGHT=22>
         </a>
+        <!-- {{ site.title }} instead of blog -->
         <a class="page-link" href="{{ site.baseurl }}/">home</a>
         {% for page in site.pages %}
           {% if page.title %}
