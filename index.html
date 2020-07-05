@@ -2,16 +2,32 @@
 layout: default
 ---
 
-<meta name="viewport" content="width=device-width initial-scale=1" />
-<video width="300" height="200" controls="false" autoplay="autoplay">
-<source src="video/snakebot.mp4" type="video/mp4" />
+<video id="myVideo" width="250" controls>
+  <source src="\video\snakebot.mp4" type="video/mp4">
 </video>
+
+  <br>
+
+<button onclick="hide()">Hide Controls</button>
+<button onclick="show()">Show Controls</button>
+
+<script>
+   var myVideo = document.getElementById( 'myVideo' );
+
+   function hide(){
+     myVideo.removeAttribute( 'controls' );
+   }
+
+    function show(){
+     myVideo.setAttribute( 'controls', '' );
+   }
+</script>
 
 <!-- welcome -->
 
 <div class="header-bar">
   <h> Ahmad Rafsanjani </h>
-  <img class="one" src="/img/Ahmad_Rafsanjani.jpg">
+  <!-- <img class="one" src="/img/Ahmad_Rafsanjani.jpg"> -->
   <h2>Welcome to our website. It is under construction</h2>
   <p>Welcome to our website. It is under construction</p>
   <p>Welcome to our website. It is under construction</p>
