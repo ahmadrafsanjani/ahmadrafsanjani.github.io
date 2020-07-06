@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  News 1
+title:  I will join the University of Southern Denmark in August 2020
 date:   2020-07-16
 description: News 1 description
 ---
-News 1 text
+I will start working as an Associate Professor at the University of Southern Denmark in August 2020.
