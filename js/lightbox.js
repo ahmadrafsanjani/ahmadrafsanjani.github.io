@@ -139,6 +139,3 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
 });
-
-
-// random video player
