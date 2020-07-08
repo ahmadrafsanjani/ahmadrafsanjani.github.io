@@ -5,17 +5,15 @@ layout: default
 <!-- front page video -->
 
 
-
-
 <div class="video-container">
  <video autoplay loop muted width="100%">
-   <source id="vsrc" type="video/mp4" />
+   <source id="vid_src" type="video/mp4" />
  </video>
 </div>
 
 
 <script>
-  document.getElementById("vsrc").src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
+  document.getElementById("vid_src").src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
 </script>
 
 
