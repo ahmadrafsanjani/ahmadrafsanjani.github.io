@@ -142,10 +142,3 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 // random video player
-
-function getRandomInt(max) {
-  return Math.floor(Math.random() * Math.floor(max));
-}
-
-var videoList = ["0.mp4", "1.mp4"];
-videoList.sort(function(a, b) {return 0.5 - Math.random()});
