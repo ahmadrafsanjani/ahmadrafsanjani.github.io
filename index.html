@@ -4,25 +4,28 @@ layout: default
 
 <!-- front page video: choose randomely -->
 
-<script>
-  document.getElementById("vid_mp4").src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
-  document.getElementById("vid_webm").src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".webm";
-</script>
+
 
 
 <div class="video-container">
  <video autoplay loop muted width="100%">
-   <source id="vid_mp4" type="video/mp4" />
-   <!-- <source src="/video/1.mp4" type="video/mp4" /> -->
-   <source id="vid_webm" type="video/webm" />
+   <source id="vid" type="video/mp4" />
+   <!-- <source id="vid_webm" type="video/webm" /> -->
    <p>This browser does not support the video element.</p>
  </video>
 </div>
 
+<!-- <script>
+  document.getElementById("vid_mp4").src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
+  document.getElementById("vid_webm").src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".webm";
+</script> -->
 
+<script>
+var vid = document.getElementById('vid');
 
-
-
+vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
+vid.play();
+</script>
 
 <!-- welcome -->
 
