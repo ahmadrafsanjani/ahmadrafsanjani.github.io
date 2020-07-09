@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  I will join the University of Southern Denmark in August 2020
-date:   2020-07-16
+date:   2020-07-04
 description: News 1 description
 ---
 I will start working as an Associate Professor at the University of Southern Denmark in August 2020.
