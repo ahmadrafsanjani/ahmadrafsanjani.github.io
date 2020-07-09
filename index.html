@@ -5,14 +5,13 @@ layout: default
 <!-- front page video: choose randomely -->
 
 
-
+<script>
+var vid = document.getElementById('vid');
+vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
+</script>  
 
 <div class="video-container">
 
-  <script>
-  var vid = document.getElementById('vid');
-  vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
-  </script>  
  <video autoplay loop muted width="100%">
    <source id="vid" type="video/mp4" />
    <!-- <source id="vid_webm" type="video/webm" /> -->
