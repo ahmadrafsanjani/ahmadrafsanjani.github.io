@@ -7,10 +7,19 @@ layout: default
 
 
 
-<div class="video-container">
+<!-- <div class="video-container">
 
  <video autoplay loop muted width="100%">
    <source id="vid" type="video/mp4" />
+   <!-- <source id="vid_webm" type="video/webm" /> -->
+   <!-- <p>This browser does not support the video element.</p>
+ </video>
+</div> -->
+
+
+<div class="video-container">
+
+ <video id="vid" autoplay loop muted width="100%">
    <!-- <source id="vid_webm" type="video/webm" /> -->
    <p>This browser does not support the video element.</p>
  </video>
@@ -24,6 +33,7 @@ layout: default
 <script type="text/javascript">
 var vid = document.getElementById('vid');
 vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
+vid.play();
 </script>
 
 
