@@ -139,10 +139,3 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
 });
-
-
-// video
-var vid = document.getElementById('vid');
-
-vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
-vid.play();
