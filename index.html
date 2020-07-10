@@ -23,7 +23,6 @@ var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
 var vid = document.getElementById('vid');
 if (viewportWidth>480) {
   vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
-  vid.style.padding = "0px 0px"+ Math.floor(viewportWidth*0.33)+"px 0px";
 } else {
   vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ "_small.mp4";
 }
