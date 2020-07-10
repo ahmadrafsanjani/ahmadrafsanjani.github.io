@@ -67,8 +67,19 @@ layout: default
 
 <!-- News -->
 
+<style media="screen">
+  h3.underline {
+border-bottom: 2px solid black;
+padding-bottom: 5px;
+}
+</style>
+
+
+
 <ul class="post-list">
-  <h3> Latest News </h3>
+
+
+  <h3 class="underline"> Latest News </h3>
     {% for post in paginator.posts %}
       <li>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
