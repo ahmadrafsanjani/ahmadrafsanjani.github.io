@@ -8,7 +8,7 @@ description: Soft Robotics.
 
 {% for image in site.static_files %}
 
-    {% if image.path contains 'team' %}
+    <!-- {% if image.path contains 'team' %} -->
 
 
 <div class="project">
@@ -20,7 +20,7 @@ description: Soft Robotics.
 </div>
 
 
-    {% endif %}
+    <!-- {% endif %} -->
 
 {% endfor %}
 
