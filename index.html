@@ -31,21 +31,6 @@ layout: default
   We develop bioinspired soft materials with embodied physical intelligence and combine it with control and learning for soft robotics applications.</p>
 </div>
 
-<script type="text/javascript">
-var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
-var vid = document.getElementById('vid');
-var fb = document.getElementById('fb');
-if (viewportWidth>480) {
-  vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
-  fb.style.padding= Math.floor(viewportWidth/4)+"px 0px 0px 0px";
-} else {
-  vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ "_small.mp4";
-  fb.style.padding= Math.floor(viewportWidth/2)+"px 0px 0px 0px";
-
-}
-vid.play();
-</script>
-
 
 <br/>
 <hr/>
@@ -78,3 +63,20 @@ vid.play();
 	<!-- <a href="https://github.com/ahmadrafsanjani" target="_blank"><i class="fa fa-github-square"></i></a> -->
 	<a href="https://twitter.com/rafsanjani84" target="_blank"><i title="twitter" class="fa fa-twitter-square"></i></a>
 </span>
+
+
+<!-- scripts -->
+<script type="text/javascript">
+var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+var vid = document.getElementById('vid');
+var fb = document.getElementById('fb');
+if (viewportWidth>480) {
+  vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
+  fb.style.padding= Math.floor(viewportWidth/4)+"px 0px 0px 0px";
+} else {
+  vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ "_small.mp4";
+  fb.style.padding= Math.floor(viewportWidth/2)+"px 0px 0px 0px";
+
+}
+vid.play();
+</script>
