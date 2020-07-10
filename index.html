@@ -41,7 +41,7 @@ layout: default
 
 </div> -->
 <div class="body">
-<h3> Our Team </h3>
+<h3 class="border"> Our Team </h3>
 <br/>
 {% for image in site.static_files %}
 
@@ -61,20 +61,20 @@ layout: default
 
 <!-- News -->
 
-<!-- <style media="screen">
-  h3::after {
+<style media="screen">
+  h3.boder {
 border-bottom: 3px solid black;
 padding-bottom: 5px;
 width:10%;
 }
-</style> -->
+</style>
 
 
 
 <ul class="post-list">
 
 
-  <h3> Latest News </h3>
+  <h3 class="border"> Latest News </h3>
   <br/>
     {% for post in paginator.posts %}
       <li>
