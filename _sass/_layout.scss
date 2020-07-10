@@ -290,13 +290,3 @@ font-size: $caption_font_size;
   width: 100%;
   overflow: hidden;
 }
-
-
-
-  .frontbody {
-    /* padding-top:50%; */
-    @include media-query(max-width: 480px) {
-        padding-top: 50%;
-
-    }
-  }
