@@ -75,6 +75,7 @@ width:10%;
 
 
   <h3> Latest News </h3>
+  <br/>
     {% for post in paginator.posts %}
       <li>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
