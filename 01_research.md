@@ -7,10 +7,10 @@ description: Soft Robotics.
 
 
 {% for image in site.static_files %}
-<!--
-    {% if image.path contains 'photoportfolio' %}
 
--->
+    {% if image.path contains 'team' %}
+
+
 <div class="project">
     <div class= "thumbnail">
         <a href="{{ site.baseurl }}{{ image.path }}">
@@ -19,9 +19,9 @@ description: Soft Robotics.
     </div>
 </div>
 
-<!--
+
     {% endif %}
--->
+
 {% endfor %}
 
 

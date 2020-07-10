@@ -38,11 +38,34 @@ layout: default
 
 <!-- Team -->
 
-<div class="body">
-  <h1> meet the team </h1>
+<!-- <div class="body">
+  <h2> meet the team </h2>
   <img class="one left" src="/img/Ahmad_Rafsanjani.jpg">
 
+</div> -->
+
+
+{% for image in site.static_files %}
+
+    {% if image.path contains 'team' %}
+
+
+<div class="project">
+    <h> Latest News </h>
+    <div class= "thumbnail">
+        <a href="{{ site.baseurl }}{{ image.path }}">
+            <img class="thumbnail" src="{{ site.baseurl }}{{ image.path }}" />
+        </a>
+    </div>
 </div>
+
+
+    {% endif %}
+
+{% endfor %}
+
+
+
 
 <br/>
 <hr/>
