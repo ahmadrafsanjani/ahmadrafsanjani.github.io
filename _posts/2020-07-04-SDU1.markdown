@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  SDU Biorobotics
-date:   "`r format(Sys.time(), '%d %B, %Y')`"
+date:   10-07-2020
 description: I will join the University of Southern Denmark in August 2020
 ---
 I will start working as an Associate Professor at the University of Southern Denmark in August 2020.
