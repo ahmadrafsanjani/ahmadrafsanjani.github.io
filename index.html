@@ -43,27 +43,27 @@ layout: default
   <img class="one left" src="/img/Ahmad_Rafsanjani.jpg">
 
 </div> -->
-
-
+<div class="project">
+<h> our team </h>
 {% for image in site.static_files %}
 
     {% if image.path contains 'team' %}
 
 
-<div class="project">
-    <h> our team </h>
+
+
     <div class= "thumbnail">
         <a href="{{ site.baseurl }}{{ image.path }}">
             <img class="thumbnail" src="{{ site.baseurl }}{{ image.path }}" />
         </a>
     </div>
-</div>
+
 
 
     {% endif %}
 
 {% endfor %}
-
+</div>
 
 
 
