@@ -35,10 +35,10 @@
  //   color: black;
  // }
 
- // .topnav a.active {
- //   background-color: #fff;
- //   color: white;
- // }
+ .topnav a.active {
+   background-color: #fff;
+   color: $grey-color-light;
+ }
 
  .topnav .icon {
    display: none;
