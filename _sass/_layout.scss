@@ -25,7 +25,8 @@
    display: block;
    color: black;
    text-align: center;
-   padding: 14px 16px;
+   line-height: $nav-height;
+   // padding: 14px 16px;
    text-decoration: none;
    font-size: 17px;
  }
