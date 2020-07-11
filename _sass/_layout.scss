@@ -42,16 +42,18 @@ text-align: right;
 &:hover .trigger {
 display: block;
 padding-bottom: 5px;
+
+/* Hide the link that should open and close the topnav on small screens */
+.icon {
+display: none;
+}
         }
 .page-link {
 display: line;
         }
     }
 
-    /* Hide the link that should open and close the topnav on small screens */
-.icon {
-  display: none;
-    }
+
 
 }
 
