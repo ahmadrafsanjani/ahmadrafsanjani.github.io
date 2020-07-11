@@ -30,17 +30,11 @@
    font-size: 15px;
  }
 
- .topnav a:hover {
-   // background-color: $grey-color-dark;
-   color: black;
- }
+ // .topnav a:hover {
+ //   background-color: $grey-color-light;
+ //   color: black;
+ // }
 
- .topnav a:hover:after {
-   content: '';
-   border-bottom: 3px solid black;
-   padding-top: 3px;
-   width: 50px;
- }
 
  .topnav a.active {
    background-color: $grey-color-light;
