@@ -50,6 +50,7 @@ function is_vimeolink(url,el) {
     xmlhttp.open("GET", 'https://vimeo.com/api/oembed.json?url='+url, true);
     xmlhttp.send();
 }
+
 function setGallery(el) {
     var elements = document.body.querySelectorAll(".gallery");
     elements.forEach(element => {
