@@ -1,8 +1,8 @@
 # Site settings
-title: Ahmad Rafsanjani
+title: Ai Matter Research Group at the University of Southern Denmark
 email: ahmad.rafsanjani@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Aim is AI Matter.
+  We aim at transferring great material ideas from Nature to soft robotics.
 baseurl:  # the subpath of your site, e.g. /home/
 url:  # the base hostname & protocol for your site
 twitter_username: rafsanjani84
