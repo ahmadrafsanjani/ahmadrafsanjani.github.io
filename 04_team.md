@@ -4,7 +4,7 @@ title: team
 permalink: /team/
 ---
 
-{% for project in site.portfolio %}
+<!-- {% for project in site.portfolio %}
 
 {% if project.redirect %}
 <div class="project">
@@ -44,4 +44,4 @@ permalink: /team/
 
 {% endif %}
 
-{% endfor %}
+{% endfor %} -->
