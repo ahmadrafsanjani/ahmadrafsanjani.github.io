@@ -47,7 +47,7 @@
  }
 
  @media screen and (max-width: 600px) {
-   .topnav a:not(:first-child) {display: none;}
+   //.topnav a:not(:first-child) {display: none;}
    .topnav a:not(:nth-child(2)) {display: none;}
    .topnav a.icon {
      float: right;
