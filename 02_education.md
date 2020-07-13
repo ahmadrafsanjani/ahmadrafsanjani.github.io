@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research
-permalink: /research/
-description: Soft Robotics.
+title: education
+permalink: /education/
+description: Teaching.
 ---
 
 
