@@ -6,6 +6,11 @@ description: Soft Robotics.
 ---
 
 
+<div class="img-container">
+<a href="https://www.sdu.dk/en" target="_blank">
+  <IMG style="vertical-align:middle" alt="SDU University" SRC="\img\SDU_logo_long.png" WIDTH=auto HEIGHT=64>
+</a>
+</div>
 
 
 
