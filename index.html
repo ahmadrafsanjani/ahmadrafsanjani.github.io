@@ -102,6 +102,9 @@ layout: default
 var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
 var vid = document.getElementById('vid');
 var fb = document.getElementById('fb');
+
+// Select video randomly and adjust it to the size of the screen
+
 if (viewportWidth>480) {
   vid.src ="/video/"+ Math.floor(Math.random() * Math.floor(2))+ ".mp4";
   fb.style.padding= Math.floor(viewportWidth*3/10)+"px 0px 0px 0px";
