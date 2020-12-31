@@ -2,8 +2,9 @@
 layout: page
 permalink: /publication/
 title: publication
-description: For the updated list of my publication visit my google scholar page.
 ---
+
+
 
 <!-- <ul class="post-list">
 {% for poem in site.poetry reversed %}
