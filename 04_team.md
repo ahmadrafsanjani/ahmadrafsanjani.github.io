@@ -4,6 +4,12 @@ title: team
 permalink: /team/
 ---
 
+# Principal Investigator
+![Ahmad Rafsanjani](/img/team/Ahmad_Rafsanjani.png)
+Format: ![Alt Text](url)
+
+
+
 <!-- {% for project in site.portfolio %}
 
 {% if project.redirect %}
