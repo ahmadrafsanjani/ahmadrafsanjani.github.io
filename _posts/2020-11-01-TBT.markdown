@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Thomas B. Thriges Foundation
-date:   10-07-2020
+date:   11-04-2020
 description: We received financial support from the Thomas B. Thriges Foundation to purchase equipment for the Center for Soft Robotics.
 ---
 We received financial support from the Thomas B. Thriges Foundation to purchase equipment for the Center for Soft Robotics.
