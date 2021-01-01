@@ -5,8 +5,8 @@ permalink: /team/
 ---
 
 # Principal Investigator
-![Ahmad Rafsanjani](/img/team/Ahmad_Rafsanjani.jpg)
-Format: ![Alt Text](url)
+![Ahmad Rafsanjani](/img/team/Ahmad_Rafsanjani.jpg | width=100)
+
 
 
 
