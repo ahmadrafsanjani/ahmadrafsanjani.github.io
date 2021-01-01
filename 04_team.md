@@ -5,8 +5,9 @@ permalink: /team/
 ---
 
 # Principal Investigator
+**Ahmad Rafsanjani**
 ![Ahmad Rafsanjani](/img/team/Ahmad_Rafsanjani.jpg){:height="25%" width="25%"}
-**soft robotics**
+
 
 
 
