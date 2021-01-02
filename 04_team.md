@@ -10,14 +10,6 @@ permalink: /team/
 Associate Professor at the Center for Soft Robotics, SDU Biorobotics, The Maersk Mc-Kinney Moller Institute, University of Southern Denmark
 
 
-img[src~="thumbnail"] {
-   width:150px;
-   height:100px;
-}
-img[src~="bordered"] {
-   border: 1px solid black;
-}
-
 # PhD Students
 Incoming PhD student on April 2021
 

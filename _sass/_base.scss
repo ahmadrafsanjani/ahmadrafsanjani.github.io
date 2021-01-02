@@ -230,3 +230,13 @@ pre {
         clear: both;
     }
 }
+
+
+
+img[src~="thumbnail"] {
+   width:25%;
+   height:25%;
+}
+img[src~="bordered"] {
+   border: 1px solid black;
+}
