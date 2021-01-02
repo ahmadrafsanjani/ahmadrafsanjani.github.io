@@ -13,7 +13,7 @@ Associate Professor at the Center for Soft Robotics, SDU Biorobotics, The Maersk
 
 # PhD Students
 \
-Incoming PhD student on April 2021
+Incoming PhD student (April 2021)
 
 
 <!-- {% for image in site.static_files %}
