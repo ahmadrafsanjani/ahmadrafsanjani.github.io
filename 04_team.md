@@ -5,12 +5,14 @@ permalink: /team/
 ---
 
 # Principal Investigator
+
 ![Ahmad Rafsanjani](/img/team/Ahmad_Rafsanjani.jpg# thumbnail)\
 **Ahmad Rafsanjani**\
 Associate Professor at the Center for Soft Robotics, SDU Biorobotics, The Maersk Mc-Kinney Moller Institute, University of Southern Denmark
 
 
 # PhD Students
+
 Incoming PhD student on April 2021
 
 
