@@ -381,12 +381,3 @@ font-size: $caption_font_size;
   padding-top: 3px;
   width: 50px;
 }
-
-
-img[src~="thumbnail"] {
-   width:150px;
-   height:100px;
-}
-img[src~="bordered"] {
-   border: 1px solid black;
-}
