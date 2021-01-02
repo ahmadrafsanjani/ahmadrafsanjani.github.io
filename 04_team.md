@@ -13,6 +13,18 @@ Associate Professor at the Center for Soft Robotics, SDU Biorobotics, The Maersk
 Incoming PhD student on April 2021
 
 
+<!-- {% for image in site.static_files %}
+
+    {% if image.path contains 'phds' %}
+
+    <img class="one left" alt="Principal Investigator" width="25%" height="25%" src="{{ site.baseurl }}{{ image.path }}" >
+    <p><b>Ahmad Rafsanjani</b>, Associate Professor at the Center for Soft Robotics, SDU Biorobotics</p>
+
+    {% endif %}
+
+{% endfor %} -->
+
+
 
 <!-- {% for project in site.portfolio %}
 
