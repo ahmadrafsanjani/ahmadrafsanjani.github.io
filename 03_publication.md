@@ -12,11 +12,11 @@ Programming soft robots with flexible mechanical metamaterials,
 
 A. Rafsanjani, L. Jin, B. Deng, K. Bertoldi,
 Propagation of pop ups in kirigami shells,
-[<u>Proceedings of the National Academy of Sciences</u>](https://doi.org/10.1073/pnas.1817763116) 116 (17) 8200-8205 (2019).
+[<u>Proceedings of the National Academy of Sciences</u>](https://doi.org/10.1073/pnas.1817763116 {:target="_blank" rel="noopener"}) 116 (17) 8200-8205 (2019).
 
 A. Rafsanjani, Y. Zhang, B. Liu, S.M. Rubinstein, K. Bertoldi,
 Kirigami skins make a simple soft actuator crawl,
-[<u>Science Robotics</u>](http://dx.doi.org/10.1126/scirobotics.aar7555) 3(15), eaar7555 (2018).
+[<u>Science Robotics</u>](http://dx.doi.org/10.1126/scirobotics.aar7555){:target="_blank" rel="noopener"} 3(15), eaar7555 (2018).
 
 S. Babaee, S. Pajovic, A. Rafsanjani, Y. Shi, K. Bertoldi, G. Traverso, Bioinspired kirigami metasurfaces as assistive shoe grips, [<u>Nature Biomedical Engineering</u>](https://doi.org/10.1038/s41551-020-0564-3){:target="_blank" rel="noopener"} 4, 778–786(2020)
 
