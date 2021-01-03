@@ -266,6 +266,6 @@ img[src~="bordered"] {
   }
 }
 
-h3[src~="url"]{
+a:link[src~="css_link"]{
   text-decoration: underline;
 }
