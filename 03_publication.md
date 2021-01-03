@@ -12,7 +12,7 @@ Science Robotics 4(29), eaav7874 (2019).
 
 A. Rafsanjani, L. Jin, B. Deng, K. Bertoldi,
 Propagation of pop ups in kirigami shells,
-Proceedings of the National Academy of Sciences of the United States of America 116 (17) 8200-8205 (2019).
+Proceedings of the National Academy of Sciences 116 (17) 8200-8205 (2019).
 
 A. Rafsanjani, Y. Zhang, B. Liu, S.M. Rubinstein, K. Bertoldi,
 Kirigami skins make a simple soft actuator crawl,
