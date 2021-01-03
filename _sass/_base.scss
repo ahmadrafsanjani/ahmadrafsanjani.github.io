@@ -265,3 +265,7 @@ img[src~="bordered"] {
       height:35%;
   }
 }
+
+h3[src~="url"]{
+  text-decoration: underline;
+}
