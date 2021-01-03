@@ -250,3 +250,18 @@ pre {
 img[src~="bordered"] {
    border: 1px solid black;
 }
+
+
+
+.PI_photo{
+  @media only screen and (max-width: 480px) {
+      /* styles for narrow screens */
+      width:80%;
+      height:80%;
+  }
+  @media only screen and (min-width: 480px) {
+      /* styles for wide screens */
+      width:25%;
+      height:25%;
+  }
+}
