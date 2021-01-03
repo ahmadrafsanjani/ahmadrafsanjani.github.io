@@ -22,7 +22,8 @@ S. Babaee, S. Pajovic, A. Rafsanjani, Y. Shi, K. Bertoldi, G. Traverso, Bioinspi
 
 L. Jin, R. Khajehtourian, J. Mueller, A. Rafsanjani, V. Tournat, K. Bertoldi, D. Kochmann,
 Guided transition waves in multistable mechanical metamaterials,
-[<u>Proceedings of the National Academy of Sciences</u>](https://doi.org/10.1073/pnas.1913228117) 117 (5), 2319-2325 (2020).
+[<u>Proceedings of the National Academy of Sciences</u>](https://doi.org/10.1073/pnas.1913228117){:target="_blank" rel="noopener"} 117 (5), 2319-2325 (2020).
+
 
 
 
