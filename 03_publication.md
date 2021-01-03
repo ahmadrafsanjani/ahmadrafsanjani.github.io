@@ -6,7 +6,6 @@ title: publication
 
 # Selected publications
 \
-S. Babaee, S. Pajovic, A. Rafsanjani, Y. Shi, K. Bertoldi, G. Traverso, Bioinspired kirigami metasurfaces as assistive shoe grips, Nature Biomedical Engineering volume 4, pages778–786(2020)
 
 A. Rafsanjani, K. Bertoldi, A.R. Studart,
 Programming soft robots with flexible mechanical metamaterials,
@@ -19,6 +18,8 @@ Proceedings of the National Academy of Sciences of the United States of America 
 A. Rafsanjani, Y. Zhang, B. Liu, S.M. Rubinstein, K. Bertoldi,
 Kirigami skins make a simple soft actuator crawl,
 Science Robotics 3(15), eaar7555 (2018).
+
+S. Babaee, S. Pajovic, A. Rafsanjani, Y. Shi, K. Bertoldi, G. Traverso, Bioinspired kirigami metasurfaces as assistive shoe grips, Nature Biomedical Engineering volume 4, pages778–786(2020)
 
 L. Jin, R. Khajehtourian, J. Mueller, A. Rafsanjani, V. Tournat, K. Bertoldi, D. Kochmann,
 Guided transition waves in multistable mechanical metamaterials,
