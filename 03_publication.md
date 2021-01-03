@@ -11,7 +11,7 @@ Programming soft robots with flexible mechanical metamaterials,
 Science Robotics 4(29), eaav7874 (2019).
 
 A. Rafsanjani, Y. Zhang, B. Liu, S.M. Rubinstein, K. Bertoldi,
-Programming soft robots with flexible mechanical metamaterials,
+Kirigami skins make a simple soft actuator crawl,
 Science Robotics 3(15), eaar7555 (2018).
 
 <!-- <ul class="post-list">
