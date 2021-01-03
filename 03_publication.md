@@ -8,11 +8,11 @@ title: publications
 \
 A. Rafsanjani, K. Bertoldi, A.R. Studart,
 Programming soft robots with flexible mechanical metamaterials,
-[<u>Science Robotics</u>](http://dx.doi.org/10.1126/scirobotics.aav7874) 4(29), eaav7874 (2019).
+[<u>Science Robotics</u>](http://dx.doi.org/10.1126/scirobotics.aav7874){:target="_blank" rel="noopener"} 4(29), eaav7874 (2019).
 
 A. Rafsanjani, L. Jin, B. Deng, K. Bertoldi,
 Propagation of pop ups in kirigami shells,
-[<u>Proceedings of the National Academy of Sciences</u>](https://doi.org/10.1073/pnas.1817763116 {:target="_blank" rel="noopener"}) 116 (17) 8200-8205 (2019).
+[<u>Proceedings of the National Academy of Sciences</u>](https://doi.org/10.1073/pnas.1817763116){:target="_blank" rel="noopener"} 116 (17) 8200-8205 (2019).
 
 A. Rafsanjani, Y. Zhang, B. Liu, S.M. Rubinstein, K. Bertoldi,
 Kirigami skins make a simple soft actuator crawl,
