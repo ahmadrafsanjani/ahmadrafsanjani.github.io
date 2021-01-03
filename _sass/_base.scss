@@ -237,14 +237,14 @@ pre {
 @media only screen and (max-width: 480px) {
     /* styles for narrow screens */
     img[src~="thumbnail"]{
-    width:80%;
-    height:80%;}
+    width:100%;
+    height:100%;}
 }
 @media only screen and (min-width: 480px) {
     /* styles for wide screens */
     img[src~="thumbnail"]{
-    width:25%;
-    height:25%;}
+    width:35%;
+    height:35%;}
 }
 
 img[src~="bordered"] {
@@ -256,8 +256,8 @@ img[src~="bordered"] {
 .PI_photo img{
   @media only screen and (max-width: 480px) {
       /* styles for narrow screens */
-      width:80%;
-      height:80%;
+      width:100%;
+      height:100%;
   }
   @media only screen and (min-width: 480px) {
       /* styles for wide screens */
