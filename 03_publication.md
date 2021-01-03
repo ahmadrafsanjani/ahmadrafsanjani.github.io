@@ -8,7 +8,7 @@ title: publications
 \
 A. Rafsanjani, K. Bertoldi, A.R. Studart,
 Programming soft robots with flexible mechanical metamaterials,
-Science Robotics 4(29), eaav7874 (2019).
+[<u>Science Robotics</u>](http://dx.doi.org/10.1126/scirobotics.aav7874) 4(29), eaav7874 (2019).
 
 A. Rafsanjani, L. Jin, B. Deng, K. Bertoldi,
 Propagation of pop ups in kirigami shells,
@@ -23,9 +23,6 @@ S. Babaee, S. Pajovic, A. Rafsanjani, Y. Shi, K. Bertoldi, G. Traverso, Bioinspi
 L. Jin, R. Khajehtourian, J. Mueller, A. Rafsanjani, V. Tournat, K. Bertoldi, D. Kochmann,
 Guided transition waves in multistable mechanical metamaterials,
 Proceedings of the National Academy of Sciences 117 (5), 2319-2325 (2020).
-
-
-
 
 
 
