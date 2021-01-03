@@ -6,7 +6,6 @@ title: publication
 
 # Selected publications
 \
-
 A. Rafsanjani, K. Bertoldi, A.R. Studart,
 Programming soft robots with flexible mechanical metamaterials,
 Science Robotics 4(29), eaav7874 (2019).
