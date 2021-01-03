@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publication/
-title: publication
+permalink: /publications/
+title: publications
 ---
 
 # Selected publications
