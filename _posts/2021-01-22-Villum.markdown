@@ -2,6 +2,9 @@
 layout: post
 title:  Villum Young Investigator
 date:   22-01-2021
-description: I am among 2021 Villum Young Investigators and received DKK 6M from the Villum Foundation. The grant funds a PhD student, a postdoctoral researcher and equipment.
+description: I am thrilled to be among this year's Villum Young Investigators. We received a DKK 6M grant from the Villum Foundation that funds a PhD student, a postdoctoral researcher and equipment to develop a snake-inspired soft robot.
 ---
 I am thrilled to be among this year's Villum Young Investigators to create a snake-inspired soft robot that can learn to crawl and navigate through narrow passages. I am grateful to the [**Villum Foundation**](https://veluxfoundations.dk/en/19-new-villum-young-investigators-in-2021) and honored for being part of this community. The DKK 6M grant funds a PhD student, a postdoctoral researcher and equipment.
+
+
+![Ahmad Rafsanjani](/img/team/Ahmad_Rafsanjani.jpg# thumbnail)
