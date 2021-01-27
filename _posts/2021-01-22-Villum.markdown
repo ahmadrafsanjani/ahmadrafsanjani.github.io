@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Villum Young Investigator
+date:   22-01-2021
+description: I am thrilled to be among this year's Villum Young Investigators.
+---
+I am thrilled to be among this year's Villum Young Investigators to create a Snake-inspired soft robot that can learn to crawl and navigate through narrow passages. I am grateful to the Villum Foundation and honored for being part of this community.
