@@ -7,4 +7,4 @@ description: I am thrilled to be among this year's Villum Young Investigators. W
 I am thrilled to be among this year's Villum Young Investigators to create a snake-inspired soft robot that can learn to crawl and navigate through narrow passages. I am grateful to the [**Villum Foundation**](https://veluxfoundations.dk/en/19-new-villum-young-investigators-in-2021) and honored for being part of this community. The DKK 6M grant funds a PhD student, a postdoctoral researcher and equipment.
 
 
-![Ahmad Rafsanjani](https://veluxfoundations.dk/sites/default/files/styles/free_crop/public/collage_smil_0.jpg?itok=3eRp5WX2)
+![Ahmad Rafsanjani](https://veluxfoundations.dk/sites/default/files/styles/free_crop/public/collage_smil_0.jpg# thumbnail)
