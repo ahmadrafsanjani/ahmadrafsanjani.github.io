@@ -2,7 +2,7 @@
 layout: post
 title:  Villum Young Investigator
 date:   22-01-2021
-description: I am thrilled to be among this year's Villum Young Investigators. I received DKK 6M from the Villum Foundation for creating a snake-inspired soft robot.
+description: I am thrilled to be among this year's Villum Young Investigators. I received DKK 6M from the Villum Foundation to create a snake-inspired soft robot that can learn to crawl and navigate through narrow passages.
 ---
 I am thrilled to be among this year's Villum Young Investigators to create a snake-inspired soft robot that can learn to crawl and navigate through narrow passages. I am grateful to the [<u>Villum Foundation</u>](https://veluxfoundations.dk/en/19-new-villum-young-investigators-in-2021){:target="_blank" rel="noopener"} and honored for being part of this community. The DKK 6M grant funds a PhD student, a postdoctoral researcher and equipment.
 
