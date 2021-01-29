@@ -5,12 +5,17 @@ permalink: /news/
 ---
 
 
-{% for post in paginator.posts %}
-<li>
-  <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}, <a href="{{ post.url | prepend: site.baseurl }}"> <b>{{post.title}}</b></a></p>
-  <p class="post-meta"> {{ post.description }}</p>
-</li>
-{% endfor %}
+<ul class="post-list">
+
+  <h3 class="borderText"> Latest News </h3>
+  <br/>
+    {% for post in paginator.posts limit:5 %}
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}, <a href="{{ post.url | prepend: site.baseurl }}"> <b>{{post.title}}</b></a></p>
+        <p class="post-meta"> {{ post.description }}</p>
+        <br>
+    {% endfor %}
+    <h5 align="right"> <a href="https://ahmadrafsanjani.github.io/news"> <u>News Archive</u> </a></h5>
+</ul>
 
 
 
