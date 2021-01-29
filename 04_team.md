@@ -17,10 +17,10 @@ Incoming PhD student (April 2021)
 
 # Bachelor Students
 \
-Rebecca Hyldgaard (Feb 2021-)
-Nikoline Rasmussen (Feb 2021-)
-Charlotte Skovgaard Larsen (Feb 2021-)
-Frida Bech Schrøder (Feb 2021-)
+Rebecca Hyldgaard (Feb 2021-)\
+Nikoline Rasmussen (Feb 2021-)\
+Charlotte Skovgaard Larsen (Feb 2021-)\
+Frida Bech Schrøder (Feb 2021-)\
 Patrick Søgaard Terp (Feb 2021-)
 
 <!-- {% for image in site.static_files %}
