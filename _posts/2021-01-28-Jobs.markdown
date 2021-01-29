@@ -2,5 +2,5 @@
 layout: post
 title:  Open PhD and Postdoctoral Positions
 date:   28-01-2021
-description: We have two fully-funded PhD and Postdoctoral positions.
+description: We have fully-funded PhD and Postdoctoral positions in soft robotics.
 ---
