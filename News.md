@@ -7,7 +7,6 @@ permalink: /news/
 
 <ul class="post-list">
 
-  <h3 class="borderText"> Latest News </h3>
   <br/>
     {% for post in paginator.posts limit:5 %}
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}, <a href="{{ post.url | prepend: site.baseurl }}"> <b>{{post.title}}</b></a></p>
