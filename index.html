@@ -77,8 +77,8 @@ layout: default
   <br/>
     {% for post in paginator.posts %}
       <li>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}, {{ post.title}}</p>
-        <p><a class="post-meta" href="{{ post.url | prepend: site.baseurl }}">{{ post.description }}</a></p>
+        <p class="post-meta" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: '%B %-d, %Y' }}, <b>{{post.title}}</b></p>
+        <p><a class="post-meta">{{ post.description }}</a></p>
       </li>
     {% endfor %}
     <h5><b>News Archive</b></h5>
