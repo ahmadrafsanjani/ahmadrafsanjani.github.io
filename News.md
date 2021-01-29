@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News Archive
+title: news archive
 permalink: /news/
 ---
 
