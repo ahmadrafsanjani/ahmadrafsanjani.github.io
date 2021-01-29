@@ -14,7 +14,6 @@ permalink: /news/
         <p class="post-meta"> {{ post.description }}</p>
         <br>
     {% endfor %}
-    <h5 align="right"> <a href="https://ahmadrafsanjani.github.io/news"> <u>News Archive</u> </a></h5>
 </ul>
 
 
