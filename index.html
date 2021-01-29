@@ -75,7 +75,7 @@ layout: default
 
   <h3 class="borderText"> Latest News </h3>
   <br/>
-    {% for post in paginator.posts %}
+    {% for post in paginator.posts[0:2] %}
       <li>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}, <a href="{{ post.url | prepend: site.baseurl }}"> <b>{{post.title}}</b></a></p>
         <p class="post-meta"> {{ post.description }}</p>
