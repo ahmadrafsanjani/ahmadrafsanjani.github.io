@@ -6,7 +6,7 @@ permalink: /news/
 
 
 <div class="post-list">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts %}
 <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}, <a href="{{ post.url | prepend: site.baseurl }}"> <b>{{post.title}}</b></a></p>
 <p class="post-meta"> {{ post.description }}</p>
 <br>
