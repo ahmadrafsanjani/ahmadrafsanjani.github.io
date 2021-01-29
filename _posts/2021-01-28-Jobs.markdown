@@ -2,7 +2,7 @@
 layout: post
 title:  Open Positions in Soft Robotics
 date:   28-01-2021
-description: We have two fully-funded positions in soft robotics. Apply online until February 28, 2021.
+description: We have two fully-funded PhD and Postdoc positions in soft robotics. Apply online until February 28, 2021.
 ---
 
 We have two fully-funded positions at the Center for Soft Robotics at the University of Southern Denmark.
