@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Open PhD and Postdoctoral Positions
+title:  Open Positions
 date:   28-01-2021
 description: We have two fully-funded positions in soft robotics. Apply online until February 28, 2021.
 ---
