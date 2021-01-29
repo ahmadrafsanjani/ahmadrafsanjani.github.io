@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SDU Biorobotics
+title:  Joining SDU Biorobotics
 date:   10-07-2020
 description: I will join the University of Southern Denmark as an Associate Professor in August 2020.
 ---
