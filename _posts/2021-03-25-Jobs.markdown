@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Open PhD Position in Soft Robotics Locomotion
+date:   28-01-2021
+description: Apply online until April 15, 2021.
+---
+
+I am looking for a talented student for a fully-funded 3-year PhD position in Soft Robotics Locomotion in my group at SDU Biorobotics.
+
+[[<u>Apply online</u>](https://www.sdu.dk/en/service/ledige_stillinger/1144369)]
+
+(*About the PhD project*)
+Snakes navigate with ease through narrow passages by moving in straight lines rather than waving their spine. The PhD project is focused on the design, fabrication, proprioceptive feedback control, and neural learning of a soft robotic crawler to mimic the snake’s rectilinear gait. Inspired by this unique locomotion skill, you will develop an autonomous soft crawling robot that can learn to move efficiently through complex terrains. This project requires system-level development of hardware and software to integrate actuation, sensing, power supply, and computation in a unified soft robotic system.
+
+The position is funded by the VILLUM Foundation Young Investigator Programme.
+
+Please contact me via email (ahra@mmmi.sdu.dk) for further information.
