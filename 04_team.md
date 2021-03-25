@@ -13,7 +13,7 @@ Associate Professor, Center for Soft Robotics, SDU Biorobotics, The Maersk Mc-Ki
 
 # PhD Students
 \
-Incoming PhD student (April 2021)
+Jonathan Tirado (starting June 2021)
 
 # Bachelor Students
 \
