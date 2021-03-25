@@ -5,7 +5,7 @@ date:   25-03-2021
 description: Apply online until April 15, 2021.
 ---
 
-I am looking for a talented and highly motivated student for a fully-funded 3-year PhD position in Soft Robotics Locomotion in my group at the Center for Soft Robotics, the University of Southern Denmark.
+I am looking for a talented and highly motivated student for a fully-funded 3-year PhD position to work on soft robotics locomotion in my group at the Center for Soft Robotics, the University of Southern Denmark.
 
 [<u>Apply online</u>](https://www.sdu.dk/en/service/ledige_stillinger/1144369) until April 15, 2021.
 
