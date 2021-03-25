@@ -10,10 +10,15 @@ permalink: /team/
 **Ahmad Rafsanjani**\
 Associate Professor, Center for Soft Robotics, SDU Biorobotics, The Maersk Mc-Kinney Moller Institute, University of Southern Denmark
 
+# Postdocs
+\
+TBA soon
 
 # PhD Students
 \
 Jonathan Tirado (starting June 2021)
+TBA soon
+TBD
 
 # Bachelor Students
 \
