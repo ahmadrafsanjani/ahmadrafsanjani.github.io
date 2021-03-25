@@ -16,8 +16,8 @@ TBA soon
 
 # PhD Students
 \
-Jonathan Tirado (starting June 2021)
-TBA soon
+Jonathan Tirado (starting June 2021)\
+TBA soon\
 TBD
 
 # Bachelor Students
