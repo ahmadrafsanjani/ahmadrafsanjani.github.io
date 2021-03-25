@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Open PhD Position in Soft Robotics Locomotion
-date:   28-01-2021
+date:   25-03-2021
 description: Apply online until April 15, 2021.
 ---
 
