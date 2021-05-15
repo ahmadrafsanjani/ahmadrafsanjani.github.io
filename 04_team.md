@@ -16,7 +16,7 @@ TBA soon
 
 # PhD Students
 \
-Mads Bering (starting June 2021)
+Mads Bering (starting June 2021)\
 Jonathan Tirado (starting July 2021)\
 TBA soon
 
