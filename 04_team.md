@@ -16,9 +16,10 @@ TBA soon
 
 # PhD Students
 \
-Jonathan Tirado (starting June 2021)\
-TBA soon\
-TBD
+Mads Bering Christiansen (starting June 2021)
+Jonathan Tirado (starting July 2021)\
+TBA soon
+
 
 # Bachelor Students
 \
