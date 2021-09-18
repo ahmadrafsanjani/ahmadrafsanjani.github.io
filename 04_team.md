@@ -12,13 +12,13 @@ Associate Professor, Center for Soft Robotics, SDU Biorobotics, The Maersk Mc-Ki
 
 # Postdocs
 \
-TBA soon
+Saravana Prashanth Murali Babu (September 2021-)
 
 # PhD Students
 \
-Mads Bering (starting June 2021)\
-Jonathan Tirado (starting July 2021)\
-TBA soon
+Mads Bering (June 2021-)\
+Jonathan Tirado (July 2021-)\
+Burcu Seyidoğlu (September 2021-)
 
 
 # Bachelor Students
